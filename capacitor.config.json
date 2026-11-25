@@ -1,0 +1,6 @@
+{
+  "appId": "uz.ergashov.aplikantduel",
+  "appName": "Aplikant Duel",
+  "webDir": "www",
+  "android": { "backgroundColor": "#eef1fb" }
+}
